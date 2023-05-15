@@ -4,7 +4,7 @@ This is a simple chatbot which provides the dorm closing/opening timings using O
 #How to run the file
 
 1)Clone the repository 
-   git clone https://github.com/varundeepakgudhe/dorm-timings-chatbot.git
+   git clone https://github.com/varundeepakgudhe/dorm_timings_open_ai.git
    
 2)Install the required dependencies
     pip install openai 
