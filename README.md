@@ -9,8 +9,8 @@ This is a simple chatbot which provides the dorm closing/opening timings using O
 2)Install the required dependencies
     pip install openai 
     
-3)Set up OpenApi key
-    Replace "Your Api_key" with your OpenApi Key
+3)Set up OpenAi key
+    Replace "Your Api_key" with your Openai API Key
 
 4)Update document
     Modify document dorm timings based on your requirements
