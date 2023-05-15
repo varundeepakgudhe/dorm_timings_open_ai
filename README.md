@@ -4,7 +4,6 @@ This is a simple chatbot which provides the dorm closing/opening timings using O
 #How to run the file
 
 1)Clone the repository 
-   ```shell
    git clone https://github.com/varundeepakgudhe/dorm-timings-chatbot.git
    
 2)Install the required dependencies
