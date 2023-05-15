@@ -1,7 +1,8 @@
 # dorm timings chatbot
 This is a simple chatbot which provides the dorm closing/opening timings using OpenAI Gpt-3.
 
-#Usage
+#How to run the file
+
 1)Clone the repository 
    ```shell
    git clone https://github.com/varundeepakgudhe/dorm-timings-chatbot.git
